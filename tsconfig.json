@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "outDir": "dist/esm"
+  }
+}
